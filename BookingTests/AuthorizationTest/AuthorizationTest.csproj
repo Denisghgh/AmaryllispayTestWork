@@ -15,4 +15,8 @@
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="89.0.4389.2300" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Currency_and_LanguageBookingTests\Currency_and_LanguageBookingTests.csproj" />
+  </ItemGroup>
+
 </Project>

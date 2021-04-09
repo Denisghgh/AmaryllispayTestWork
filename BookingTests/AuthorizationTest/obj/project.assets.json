@@ -1236,6 +1236,24 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Currency_and_LanguageBookingTests/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.NET.Test.Sdk": "16.9.4",
+          "NUnit": "3.13.1",
+          "NUnit3TestAdapter": "3.17.0",
+          "Selenium.Chrome.WebDriver": "85.0.0",
+          "Selenium.WebDriver": "3.141.0",
+          "Selenium.WebDriver.ChromeDriver": "89.0.4389.2300"
+        },
+        "compile": {
+          "bin/placeholder/Currency_and_LanguageBookingTests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Currency_and_LanguageBookingTests.dll": {}
+        }
       }
     }
   },
@@ -4856,10 +4874,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Currency_and_LanguageBookingTests/1.0.0": {
+      "type": "project",
+      "path": "../Currency_and_LanguageBookingTests/Currency_and_LanguageBookingTests.csproj",
+      "msbuildProject": "../Currency_and_LanguageBookingTests/Currency_and_LanguageBookingTests.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Currency_and_LanguageBookingTests >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.1",
       "NUnit3TestAdapter >= 3.17.0",
@@ -4902,7 +4926,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\AmaryllispayTestWork\\BookingTests\\Currency_and_LanguageBookingTests\\Currency_and_LanguageBookingTests.csproj": {
+              "projectPath": "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\AmaryllispayTestWork\\BookingTests\\Currency_and_LanguageBookingTests\\Currency_and_LanguageBookingTests.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
