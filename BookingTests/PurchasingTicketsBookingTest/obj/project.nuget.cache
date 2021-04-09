@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oT5yv14fKzrXHWCph0RINCedAVk6dJTX1Z1kjJkni5ORYXVhJcT6yprkIgtCVg5c8pyKbWy2umXMKNGHd3lQYw==",
+  "dgSpecHash": "+LnyMs+xIXxXbl508Skj5BRI+Hsbrs64FWopn+YffNDrVd76KvS6f9TJG9ldhcYRix+WWd3oRSxdXXBTRgeCxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\Currency_and_LanguageBookingTests\\PurchasingTicketsBookingTest\\PurchasingTicketsBookingTest.csproj",
+  "projectFilePath": "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\AmaryllispayTestWork\\BookingTests\\PurchasingTicketsBookingTest\\PurchasingTicketsBookingTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denizka\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\Denizka\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

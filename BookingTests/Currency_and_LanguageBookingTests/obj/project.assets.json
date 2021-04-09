@@ -4876,11 +4876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\Currency_and_LanguageBookingTests\\Currency_and_LanguageBookingTests\\Currency_and_LanguageBookingTests.csproj",
+      "projectUniqueName": "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\AmaryllispayTestWork\\BookingTests\\Currency_and_LanguageBookingTests\\Currency_and_LanguageBookingTests.csproj",
       "projectName": "Currency_and_LanguageBookingTests",
-      "projectPath": "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\Currency_and_LanguageBookingTests\\Currency_and_LanguageBookingTests\\Currency_and_LanguageBookingTests.csproj",
+      "projectPath": "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\AmaryllispayTestWork\\BookingTests\\Currency_and_LanguageBookingTests\\Currency_and_LanguageBookingTests.csproj",
       "packagesPath": "C:\\Users\\Denizka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\Currency_and_LanguageBookingTests\\Currency_and_LanguageBookingTests\\obj\\",
+      "outputPath": "C:\\Users\\Denizka\\Documents\\MyFiles\\Trash\\work\\1\\AmaryllispayTestWork\\BookingTests\\Currency_and_LanguageBookingTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

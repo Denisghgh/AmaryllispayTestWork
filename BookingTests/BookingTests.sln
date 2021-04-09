@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Currency_and_LanguageBookin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PurchasingTicketsBookingTest", "PurchasingTicketsBookingTest\PurchasingTicketsBookingTest.csproj", "{BC52DE7E-1580-427C-8E11-C6828435D9ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationTest", "AuthorizationTest\AuthorizationTest.csproj", "{B7259B53-D19F-43FD-B7CF-D58370739C1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BC52DE7E-1580-427C-8E11-C6828435D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC52DE7E-1580-427C-8E11-C6828435D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC52DE7E-1580-427C-8E11-C6828435D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7259B53-D19F-43FD-B7CF-D58370739C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7259B53-D19F-43FD-B7CF-D58370739C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7259B53-D19F-43FD-B7CF-D58370739C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7259B53-D19F-43FD-B7CF-D58370739C1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
