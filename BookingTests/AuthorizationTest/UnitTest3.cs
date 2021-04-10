@@ -2,8 +2,11 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using System.Threading;
 
-namespace Currency_and_LanguageBookingTests
+namespace AuthorizationTest
 {
+    /// <summary>
+    /// please use Chrome version 85.0
+    /// </summary>
     public class Tests
     {
         private IWebDriver driver;

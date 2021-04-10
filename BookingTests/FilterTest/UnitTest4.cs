@@ -3,8 +3,11 @@ using OpenQA.Selenium;
 using System.Threading;
 
 
-namespace PurchasingTicketsBookingTest
+namespace FilterTest
 {
+    /// <summary>
+    /// please use Chrome version 85.0
+    /// </summary>
     public class Tests
     {
         private IWebDriver driver;
