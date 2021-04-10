@@ -52,9 +52,9 @@ namespace PurchasingTicketsBookingTest
             var search = driver.FindElement(_searchButton);
             search.Click();
 
-            Thread.Sleep(2000);
+            Thread.Sleep(3000);
             var actualIsFilter = driver.FindElement(_actualIsFilter).Text;
-
+            
             Assert.AreEqual(_expectedIsFilter, actualIsFilter, "purchase went wrong");
             Thread.Sleep(2000);
         }

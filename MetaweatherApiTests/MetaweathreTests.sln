@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatitudeLongitudeMatchTest", "LatitudeLongitudeMatchTest\LatitudeLongitudeMatchTest.csproj", "{B7A171BB-DF4C-4473-A8F3-BBAA3062C24A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todaysWeatherForecastTest", "todaysWeatherForecastTest\todaysWeatherForecastTest.csproj", "{1E4D7DE8-1DAF-4D01-9E11-4255D0D7A9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A171BB-DF4C-4473-A8F3-BBAA3062C24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A171BB-DF4C-4473-A8F3-BBAA3062C24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A171BB-DF4C-4473-A8F3-BBAA3062C24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A171BB-DF4C-4473-A8F3-BBAA3062C24A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4D7DE8-1DAF-4D01-9E11-4255D0D7A9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4D7DE8-1DAF-4D01-9E11-4255D0D7A9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4D7DE8-1DAF-4D01-9E11-4255D0D7A9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4D7DE8-1DAF-4D01-9E11-4255D0D7A9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76276A1C-2EFC-4EA2-991C-4BFD6265E41E}
+	EndGlobalSection
+EndGlobal

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "AuthorizationTest/1.0.0": {
         "dependencies": {
+          "Currency_and_LanguageBookingTests": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "NUnit": "3.13.1",
           "NUnit3TestAdapter": "3.17.0",
@@ -851,6 +852,19 @@
             "fileVersion": "4.6.24705.1"
           }
         }
+      },
+      "Currency_and_LanguageBookingTests/1.0.0": {
+        "dependencies": {
+          "Microsoft.NET.Test.Sdk": "16.9.4",
+          "NUnit": "3.13.1",
+          "NUnit3TestAdapter": "3.17.0",
+          "Selenium.Chrome.WebDriver": "85.0.0",
+          "Selenium.WebDriver": "3.141.0",
+          "Selenium.WebDriver.ChromeDriver": "89.0.4389.2300"
+        },
+        "runtime": {
+          "Currency_and_LanguageBookingTests.dll": {}
+        }
       }
     }
   },
@@ -1321,6 +1335,11 @@
       "sha512": "sha512-A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "Currency_and_LanguageBookingTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

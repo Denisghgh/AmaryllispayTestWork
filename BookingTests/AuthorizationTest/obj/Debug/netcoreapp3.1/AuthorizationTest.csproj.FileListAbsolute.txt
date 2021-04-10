@@ -97,3 +97,8 @@ C:\Users\Denizka\Documents\MyFiles\Trash\work\1\AmaryllispayTestWork\BookingTest
 C:\Users\Denizka\Documents\MyFiles\Trash\work\1\AmaryllispayTestWork\BookingTests\AuthorizationTest\obj\Debug\netcoreapp3.1\AuthorizationTest.dll
 C:\Users\Denizka\Documents\MyFiles\Trash\work\1\AmaryllispayTestWork\BookingTests\AuthorizationTest\obj\Debug\netcoreapp3.1\AuthorizationTest.pdb
 C:\Users\Denizka\Documents\MyFiles\Trash\work\1\AmaryllispayTestWork\BookingTests\AuthorizationTest\obj\Debug\netcoreapp3.1\AuthorizationTest.genruntimeconfig.cache
+C:\Users\Denizka\Documents\MyFiles\Trash\work\1\AmaryllispayTestWork\BookingTests\AuthorizationTest\bin\Debug\netcoreapp3.1\Currency_and_LanguageBookingTests.deps.json
+C:\Users\Denizka\Documents\MyFiles\Trash\work\1\AmaryllispayTestWork\BookingTests\AuthorizationTest\bin\Debug\netcoreapp3.1\Currency_and_LanguageBookingTests.runtimeconfig.json
+C:\Users\Denizka\Documents\MyFiles\Trash\work\1\AmaryllispayTestWork\BookingTests\AuthorizationTest\bin\Debug\netcoreapp3.1\Currency_and_LanguageBookingTests.runtimeconfig.dev.json
+C:\Users\Denizka\Documents\MyFiles\Trash\work\1\AmaryllispayTestWork\BookingTests\AuthorizationTest\bin\Debug\netcoreapp3.1\Currency_and_LanguageBookingTests.dll
+C:\Users\Denizka\Documents\MyFiles\Trash\work\1\AmaryllispayTestWork\BookingTests\AuthorizationTest\bin\Debug\netcoreapp3.1\Currency_and_LanguageBookingTests.pdb

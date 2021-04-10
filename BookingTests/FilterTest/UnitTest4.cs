@@ -59,7 +59,6 @@ namespace PurchasingTicketsBookingTest
             Thread.Sleep(2000);
             var actualIsCity = driver.FindElement(_actualIsCity).Text;
             
-           // bool b = actualIsCity.Contains(_expectedIsCity);
             Assert.IsTrue(actualIsCity.Contains(_expectedIsCity), "filter is not working");
             Thread.Sleep(2000);
         }

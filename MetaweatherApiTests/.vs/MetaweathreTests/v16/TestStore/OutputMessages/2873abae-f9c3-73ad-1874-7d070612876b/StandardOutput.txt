@@ -1,0 +1,70 @@
+On the date: 2021-04-10T14:15:40.946608Z the weather was: Light Cloud; mintemp: 1.855; maxtemp: 12.54; windSpeed: 9.238446472600016
+On the date: 2021-04-10T11:15:40.223500Z the weather was: Light Cloud; mintemp: 1.81; maxtemp: 12.469999999999999; windSpeed: 9.193446472600016
+On the date: 2021-04-10T08:15:40.751797Z the weather was: Heavy Cloud; mintemp: 1.26; maxtemp: 12.690000000000001; windSpeed: 9.224515032211881
+On the date: 2021-04-10T05:15:41.831532Z the weather was: Heavy Cloud; mintemp: 1.26; maxtemp: 12.690000000000001; windSpeed: 9.224515032211881
+On the date: 2021-04-10T02:15:40.240206Z the weather was: Heavy Cloud; mintemp: 3.85; maxtemp: 13.945; windSpeed: 8.113718285214349
+On the date: 2021-04-09T23:15:41.024570Z the weather was: Heavy Cloud; mintemp: 3.85; maxtemp: 13.945; windSpeed: 8.113718285214349
+On the date: 2021-04-09T20:15:43.556531Z the weather was: Heavy Cloud; mintemp: 1.8599999999999999; maxtemp: 12.625; windSpeed: 9.16694245605663
+On the date: 2021-04-09T17:15:43.949416Z the weather was: Heavy Cloud; mintemp: 1.905; maxtemp: 12.71; windSpeed: 9.356942456056629
+On the date: 2021-04-09T14:15:43.454610Z the weather was: Heavy Cloud; mintemp: 1.88; maxtemp: 12.74; windSpeed: 9.344515032211882
+On the date: 2021-04-09T11:15:46.039880Z the weather was: Heavy Cloud; mintemp: 2.075; maxtemp: 12.620000000000001; windSpeed: 8.979515032211882
+On the date: 2021-04-09T08:15:43.657188Z the weather was: Heavy Cloud; mintemp: 2.21; maxtemp: 12.215; windSpeed: 8.904950489143403
+On the date: 2021-04-09T05:15:44.730874Z the weather was: Heavy Cloud; mintemp: 2.21; maxtemp: 12.215; windSpeed: 8.904950489143403
+On the date: 2021-04-09T02:15:43.826471Z the weather was: Light Cloud; mintemp: 3.8150000000000004; maxtemp: 14.23; windSpeed: 8.456738646305576
+On the date: 2021-04-08T23:15:42.733363Z the weather was: Light Cloud; mintemp: 3.8150000000000004; maxtemp: 14.23; windSpeed: 8.456738646305576
+On the date: 2021-04-08T20:15:46.639298Z the weather was: Heavy Cloud; mintemp: 2.505; maxtemp: 12.425; windSpeed: 8.60276087648135
+On the date: 2021-04-08T17:15:46.257842Z the weather was: Heavy Cloud; mintemp: 2.675; maxtemp: 12.295; windSpeed: 8.537760876481348
+On the date: 2021-04-08T14:15:46.337621Z the weather was: Heavy Cloud; mintemp: 2.665; maxtemp: 12.350000000000001; windSpeed: 8.630966555316949
+On the date: 2021-04-08T11:15:46.949450Z the weather was: Heavy Cloud; mintemp: 2.505; maxtemp: 12.58; windSpeed: 8.84096655531695
+On the date: 2021-04-08T08:15:47.338706Z the weather was: Heavy Cloud; mintemp: 2.455; maxtemp: 12.605; windSpeed: 8.797470571860336
+On the date: 2021-04-08T05:15:46.434252Z the weather was: Heavy Cloud; mintemp: 2.455; maxtemp: 12.605; windSpeed: 8.797470571860336
+On the date: 2021-04-08T02:03:03.037428Z the weather was: Heavy Cloud; mintemp: 3.3; maxtemp: 13.629999999999999; windSpeed: 8.361541000556748
+On the date: 2021-04-07T23:15:46.241517Z the weather was: Heavy Cloud; mintemp: 3.3; maxtemp: 13.629999999999999; windSpeed: 8.361541000556748
+On the date: 2021-04-07T20:15:49.455513Z the weather was: Heavy Cloud; mintemp: 2.435; maxtemp: 12.46; windSpeed: 8.725043148015589
+On the date: 2021-04-07T17:15:48.857181Z the weather was: Heavy Cloud; mintemp: 2.29; maxtemp: 12.965; windSpeed: 8.325043148015588
+On the date: 2021-04-07T14:15:49.830770Z the weather was: Heavy Cloud; mintemp: 2.045; maxtemp: 13.0; windSpeed: 8.197662053606935
+On the date: 2021-04-07T11:15:49.649241Z the weather was: Heavy Cloud; mintemp: 1.7799999999999998; maxtemp: 12.805; windSpeed: 8.182662053606936
+On the date: 2021-04-07T08:15:49.189547Z the weather was: Heavy Cloud; mintemp: 1.6400000000000001; maxtemp: 12.71; windSpeed: 8.232371748985923
+On the date: 2021-04-07T05:15:50.623320Z the weather was: Heavy Cloud; mintemp: 1.6400000000000001; maxtemp: 12.71; windSpeed: 8.232371748985923
+On the date: 2021-04-07T02:15:49.030734Z the weather was: Light Cloud; mintemp: 3.205; maxtemp: 14.184999999999999; windSpeed: 8.091883798616081
+On the date: 2021-04-06T23:15:50.975450Z the weather was: Light Cloud; mintemp: 3.205; maxtemp: 14.184999999999999; windSpeed: 8.091883798616081
+On the date: 2021-04-06T20:15:52.805351Z the weather was: Heavy Cloud; mintemp: 2.04; maxtemp: 12.445; windSpeed: 8.237906028791855
+On the date: 2021-04-06T17:15:52.155319Z the weather was: Heavy Cloud; mintemp: 1.8199999999999998; maxtemp: 12.545; windSpeed: 8.572906028791856
+On the date: 2021-04-06T14:15:52.578827Z the weather was: Heavy Cloud; mintemp: 1.77; maxtemp: 12.645; windSpeed: 8.551158037063548
+On the date: 2021-04-06T11:15:52.797886Z the weather was: Heavy Cloud; mintemp: 1.895; maxtemp: 12.09; windSpeed: 8.956158037063549
+On the date: 2021-04-06T08:15:52.563285Z the weather was: Heavy Cloud; mintemp: 1.9849999999999999; maxtemp: 11.865; windSpeed: 9.419079575280362
+On the date: 2021-04-06T05:15:52.655375Z the weather was: Heavy Cloud; mintemp: 1.9849999999999999; maxtemp: 11.865; windSpeed: 9.419079575280362
+On the date: 2021-04-06T02:15:51.868056Z the weather was: Heavy Cloud; mintemp: 3.23; maxtemp: 14.495000000000001; windSpeed: 8.22368428378271
+On the date: 2021-04-05T23:15:52.884557Z the weather was: Heavy Cloud; mintemp: 3.23; maxtemp: 14.495000000000001; windSpeed: 8.22368428378271
+On the date: 2021-04-05T20:15:55.100279Z the weather was: Showers; mintemp: 2.0; maxtemp: 12.95; windSpeed: 7.571244531933508
+On the date: 2021-04-05T17:15:54.578810Z the weather was: Heavy Rain; mintemp: 2.015; maxtemp: 12.695; windSpeed: 8.851244531933508
+On the date: 2021-04-05T14:15:57.875753Z the weather was: Heavy Rain; mintemp: 2.15; maxtemp: 12.695; windSpeed: 9.071831305177762
+On the date: 2021-04-05T11:15:55.901149Z the weather was: Light Rain; mintemp: 1.915; maxtemp: 12.545000000000002; windSpeed: 9.811831305177762
+On the date: 2021-04-05T08:15:55.417937Z the weather was: Light Rain; mintemp: 2.14; maxtemp: 12.280000000000001; windSpeed: 10.461164201065776
+On the date: 2021-04-05T05:15:56.002011Z the weather was: Light Rain; mintemp: 2.14; maxtemp: 12.280000000000001; windSpeed: 10.461164201065776
+On the date: 2021-04-05T02:15:55.865052Z the weather was: Light Rain; mintemp: 3.0599999999999996; maxtemp: 11.95; windSpeed: 10.083829436093215
+On the date: 2021-04-04T23:15:56.406252Z the weather was: Light Rain; mintemp: 3.0599999999999996; maxtemp: 11.95; windSpeed: 10.083829436093215
+On the date: 2021-04-04T20:15:59.534883Z the weather was: Light Rain; mintemp: 1.635; maxtemp: 11.704999999999998; windSpeed: 9.996837469179988
+On the date: 2021-04-04T17:15:58.630076Z the weather was: Showers; mintemp: 0.55; maxtemp: 11.329999999999998; windSpeed: 8.451837469179988
+On the date: 2021-04-04T14:15:58.905346Z the weather was: Heavy Cloud; mintemp: 0.51; maxtemp: 12.004999999999999; windSpeed: 8.218823272090988
+On the date: 2021-04-04T11:15:59.517656Z the weather was: Heavy Cloud; mintemp: 2.4050000000000002; maxtemp: 13.08; windSpeed: 8.298823272090988
+On the date: 2021-04-04T08:15:58.232423Z the weather was: Heavy Cloud; mintemp: 1.86; maxtemp: 13.09; windSpeed: 8.432418078422016
+On the date: 2021-04-04T05:15:59.207445Z the weather was: Heavy Cloud; mintemp: 1.86; maxtemp: 13.09; windSpeed: 8.432418078422016
+On the date: 2021-04-04T02:15:58.699272Z the weather was: Light Cloud; mintemp: 4.235; maxtemp: 14.22; windSpeed: 8.437912192794084
+On the date: 2021-04-03T23:15:58.082743Z the weather was: Light Cloud; mintemp: 4.235; maxtemp: 14.22; windSpeed: 8.437912192794084
+On the date: 2021-04-03T20:16:01.322990Z the weather was: Light Cloud; mintemp: 2.41; maxtemp: 13.465; windSpeed: 7.406436013680109
+On the date: 2021-04-03T17:16:01.896027Z the weather was: Heavy Cloud; mintemp: 1.405; maxtemp: 12.77; windSpeed: 7.136436013680108
+On the date: 2021-04-03T14:16:01.422039Z the weather was: Heavy Cloud; mintemp: 2.54; maxtemp: 11.735; windSpeed: 6.9904137835043345
+On the date: 2021-04-03T11:16:02.297701Z the weather was: Heavy Cloud; mintemp: 3.165; maxtemp: 9.265; windSpeed: 6.785413783504334
+On the date: 2021-04-03T08:16:01.500265Z the weather was: Heavy Cloud; mintemp: 3.08; maxtemp: 8.54; windSpeed: 6.819589199077388
+On the date: 2021-04-03T05:16:01.037426Z the weather was: Heavy Cloud; mintemp: 3.08; maxtemp: 8.54; windSpeed: 6.819589199077388
+On the date: 2021-04-03T02:16:03.117056Z the weather was: Snow; mintemp: 2.01; maxtemp: 6.47; windSpeed: 3.61016662689891
+On the date: 2021-04-02T23:16:01.926454Z the weather was: Snow; mintemp: 2.01; maxtemp: 6.47; windSpeed: 3.61016662689891
+On the date: 2021-04-02T20:16:04.597215Z the weather was: Heavy Rain; mintemp: 4.78; maxtemp: 8.96; windSpeed: 4.591933110633898
+On the date: 2021-04-02T17:16:04.425015Z the weather was: Heavy Rain; mintemp: 4.78; maxtemp: 8.96; windSpeed: 4.591933110633898
+On the date: 2021-04-02T14:16:04.524767Z the weather was: Snow; mintemp: 0.89; maxtemp: 3.86; windSpeed: 4.088622444921658
+On the date: 2021-04-02T11:16:04.689597Z the weather was: Snow; mintemp: 0.89; maxtemp: 3.86; windSpeed: 4.088622444921658
+On the date: 2021-04-02T08:16:04.818168Z the weather was: Heavy Cloud; mintemp: 1.63; maxtemp: 10.33; windSpeed: 2.069166070150322
+On the date: 2021-04-02T05:16:04.827188Z the weather was: Heavy Cloud; mintemp: 1.63; maxtemp: 10.33; windSpeed: 2.069166070150322
+On the date: 2021-04-02T02:16:04.757425Z the weather was: Heavy Rain; mintemp: 1.12; maxtemp: 6.49; windSpeed: 2.858307484291736
+On the date: 2021-04-01T23:16:03.903045Z the weather was: Heavy Rain; mintemp: 1.12; maxtemp: 6.49; windSpeed: 2.858307484291736
