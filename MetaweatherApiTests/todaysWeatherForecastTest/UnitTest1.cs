@@ -1,16 +1,14 @@
 using Newtonsoft.Json;
 using NUnit.Framework;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Test;
 
 namespace todaysWeatherForecastTest
 {
-    public class Tests
+    public class todaysWeatherForecastTest
     {
         public static int _Woeid { get; set; }
         private const string _city = "minsk";
@@ -21,7 +19,6 @@ namespace todaysWeatherForecastTest
         {
             ReadWoeid ReadWoeid = new ReadWoeid();
         }
-
 
         [Test]
         public async Task WeatherForecastTest()
@@ -67,7 +64,6 @@ namespace todaysWeatherForecastTest
                 }
             }
         }
-
     }
 }
      

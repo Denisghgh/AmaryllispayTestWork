@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatitudeLongitudeMatchTest"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todaysWeatherForecastTest", "todaysWeatherForecastTest\todaysWeatherForecastTest.csproj", "{1E4D7DE8-1DAF-4D01-9E11-4255D0D7A9BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempAbove0BelowZeroIntervalTests", "TempAbove0BelowZeroIntervalTests\TempAbove0BelowZeroIntervalTests.csproj", "{E18E6C2D-19FD-4777-8CF4-B01D649F0E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempAbove0BelowZeroIntervalTests", "TempAbove0BelowZeroIntervalTests\TempAbove0BelowZeroIntervalTests.csproj", "{E18E6C2D-19FD-4777-8CF4-B01D649F0E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSNameTheSameAsTodayTest", "WSNameTheSameAsTodayTest\WSNameTheSameAsTodayTest.csproj", "{937AAE9E-CA69-4608-9D4C-9CCBF5FDA6A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E18E6C2D-19FD-4777-8CF4-B01D649F0E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E18E6C2D-19FD-4777-8CF4-B01D649F0E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E18E6C2D-19FD-4777-8CF4-B01D649F0E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937AAE9E-CA69-4608-9D4C-9CCBF5FDA6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937AAE9E-CA69-4608-9D4C-9CCBF5FDA6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937AAE9E-CA69-4608-9D4C-9CCBF5FDA6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937AAE9E-CA69-4608-9D4C-9CCBF5FDA6A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,7 +15,7 @@ namespace Test
         public static int Woeid { get; set; }
 
         [SetUp]
-        public async Task Setup()
+        public void Setup()
         {
         }
         [Test]

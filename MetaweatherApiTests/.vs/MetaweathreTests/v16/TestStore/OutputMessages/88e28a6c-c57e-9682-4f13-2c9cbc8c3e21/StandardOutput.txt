@@ -1,3 +1,4 @@
+On the date: 2021-04-10T17:15:39.650912Z the weather was: Heavy Cloud; mintemp: 1.855; maxtemp: 13.09; windSpeed: 9.198057345104589
 On the date: 2021-04-10T14:15:40.946608Z the weather was: Light Cloud; mintemp: 1.855; maxtemp: 12.54; windSpeed: 9.238446472600016
 On the date: 2021-04-10T11:15:40.223500Z the weather was: Light Cloud; mintemp: 1.81; maxtemp: 12.469999999999999; windSpeed: 9.193446472600016
 On the date: 2021-04-10T08:15:40.751797Z the weather was: Heavy Cloud; mintemp: 1.26; maxtemp: 12.690000000000001; windSpeed: 9.224515032211881

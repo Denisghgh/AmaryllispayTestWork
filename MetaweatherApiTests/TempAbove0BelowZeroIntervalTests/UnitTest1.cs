@@ -1,7 +1,6 @@
 using Newtonsoft.Json;
 using NUnit.Framework;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Net.Http;
@@ -21,7 +20,6 @@ namespace TempAbove0BelowZeroIntervalTests
         private const string _autumnDate = "/2020/10/14/";
         private const string _springDate = "/2020/5/10/";
         private bool isTestPassed { get; set; } = true;
-
 
         [SetUp]
         public async Task Setup()
